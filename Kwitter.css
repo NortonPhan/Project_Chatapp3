@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+    background-color: coral;
+}
+#username{
+    width: 250px;
+}
+h1{
+    font-size: 120px;
+    font-weight:900 ;
+}
+button{
+    width: 150px;
+    
+    height: 75px;
+    border-radius: 50%;
+}
